@@ -1,0 +1,14 @@
+
+
+local Key = {
+   "Cocctduakeychothgngu" or
+   "CaythuemuaaccibadminZyHub" or
+   "mcobigayko1gay2gay"
+}
+
+if _G.Key == Key then
+   Execute() -- có thể sài Github
+   loadstring(game:HttpGet"https://raw.githubusercontent.com/Duynguenbao123987/ZyyHub/main/Protected_2164912150741638.lua.txt")()
+else
+   game:GetService("Players").LocalPlayer:Kick("Key Wrong Check again | /keyscript ")
+end
